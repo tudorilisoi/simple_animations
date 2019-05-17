@@ -118,7 +118,7 @@ Note: Changing it outside the first initialization has no effect.
 
 
 
-## Using pre-build childs
+## Using pre-build children
 
 If the animated scene is quite large you can use a **pre-build child**
 to **reduce widget-rebuilds** that are not really effected by animation
